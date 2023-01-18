@@ -15,3 +15,4 @@ function makeText (x,y,text){
     pencil.fillStyle = "black";
     pencil.fillText(text,x,y);
 }
+var serie2015 = [50,25,20,,5]
